@@ -1,0 +1,12 @@
+C:\Users\nitros\source\repos\Kalkulator1\Kalkulator1\bin\Debug\Kalkulator1.exe.config
+C:\Users\nitros\source\repos\Kalkulator1\Kalkulator1\bin\Debug\Kalkulator1.exe
+C:\Users\nitros\source\repos\Kalkulator1\Kalkulator1\bin\Debug\Kalkulator1.pdb
+C:\Users\nitros\source\repos\Kalkulator1\Kalkulator1\bin\Debug\Kalkulator1.xml
+C:\Users\nitros\source\repos\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.vbprojAssemblyReference.cache
+C:\Users\nitros\source\repos\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.Form1.resources
+C:\Users\nitros\source\repos\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.Resources.resources
+C:\Users\nitros\source\repos\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.vbproj.GenerateResource.cache
+C:\Users\nitros\source\repos\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.vbproj.CoreCompileInputs.cache
+C:\Users\nitros\source\repos\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.exe
+C:\Users\nitros\source\repos\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.xml
+C:\Users\nitros\source\repos\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.pdb
